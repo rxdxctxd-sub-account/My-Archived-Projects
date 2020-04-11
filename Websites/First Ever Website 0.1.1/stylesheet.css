@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family:"Lucida Console", Monaco, monospace;
+	background-color:#aaa
+
+}
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.topnav {
+  background-color: #008E97;
+  overflow: hidden;
+  
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 18px;
+  text-decoration: none;
+  font-size: 26px;
+}
+
+.topnav a:hover {
+  background-color: #F58220;
+  color: orange;
+  padding: 16px 18px;
+}
+
+.topnav a.active {
+  background-color: #008E97;
+  color: blue;
+ 

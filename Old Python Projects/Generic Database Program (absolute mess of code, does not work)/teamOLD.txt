@@ -1,0 +1,8 @@
+team,score,player1,player2,player3,player4,player5,event,position
+test,0,1,2,3,4,5
+test,5,1,2,3,4,5,Football,1
+test,10,1,2,3,4,5,EscapeRoom,1
+test2,0,11,22,33,44,55
+test2,4,11,22,33,44,55,Football,2
+test2,7,11,22,33,44,55,EscapeRoom,3
+

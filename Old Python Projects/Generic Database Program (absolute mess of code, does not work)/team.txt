@@ -1,0 +1,9 @@
+team,score,player1,player2,player3,player4,player5,eventID,position
+test,0,1,2,3,4,5
+test2,0,11,22,33,44,55
+test,5,1,2,3,4,5,1,1
+test2,4,11,22,33,44,55,1,2
+Test3,0,tim,dollar,don,max,lib
+Test3,0,tim,dollar,don,max,lib
+"Test4,s,s",0,"oof,oof","oof,foo","foo,foo","foo,foo","loo,loo"
+"Gurur<>?_+}{[]'#@~)^(*&^%$£""!!¬`|\?/><",0,"1£$%£^""%!*)""*£,^<>?","2£$%£^""%!*)"",*£^<>?","3£$%,£^""%!*)""*£^<>?","4£$%£^""%!*),""*£^<>?","5[]'#@~)(*&^%$£""!!¬`|\?/><,"
